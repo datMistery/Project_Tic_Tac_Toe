@@ -1,0 +1,9 @@
+Do là phần mềm có thêm âm thanh nên để run được cần phải:
+
+B1. Click chuột phải vào trong tên Project game_tictactoe
+B2. Chọn Add -> Reference...
+B3. Tại thư mục COM, ta kéo thanh điều hướng xuống cuối
+B4. Đánh dấu v vào 2 ô trống Windows Media Player 
+B5. Nhấn OK
+
+Vậy là có thể chạy được bình thường
